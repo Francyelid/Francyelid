@@ -26,4 +26,5 @@
   
   ![Snake animation](https://github.com/Francyelid/Francyelid/blob/output/github-contribution-grid-snake.svg)
   
+  
 </div>
