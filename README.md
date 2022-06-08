@@ -24,6 +24,6 @@
   <a href = "mailto:larissa.francyelid.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-francy%C3%A9lid-a4288b1a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/francyelid/francyelid/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/francyelid/francyelid/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![Snake animation](https://github.com/Francyelid/Francyelid/blob/output/github-contribution-grid-snake.svg)
   
 </div>
